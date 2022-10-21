@@ -32,12 +32,6 @@ fields_of_interests:
 </p>
 
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">                    
-![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthb101&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirthb101&show_icons=true&theme=radical&count_private=true)
-</p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirthb101&theme=noctis_minimus&show_icons=true" />
