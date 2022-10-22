@@ -34,7 +34,7 @@ fields_of_interests:
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/tirthb101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirthb101&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthb101&theme=noctis_minimus&layout=compact" />
 </a>
